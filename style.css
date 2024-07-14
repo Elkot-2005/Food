@@ -161,7 +161,7 @@ transition: opacity 0.5s;
 .mr{
     margin: 0 5%;
 }
-.Favorite-food-item-item .fas{
+.Favorite-food-item-item i{
     font-size: xx-large;
     margin-bottom: 10px;
     color: #6195ff;
