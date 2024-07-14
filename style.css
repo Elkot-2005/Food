@@ -43,7 +43,7 @@ a{
     background-color: blue;
     width: 60px;
     height: 3px;
-    margin-left: 50px;
+    margin-left: 40px;
     margin-top: -7px;
 }
 .header .container .header-content .nav > li{
@@ -161,7 +161,7 @@ transition: opacity 0.5s;
 .mr{
     margin: 0 5%;
 }
-.Favorite-food-item-item i{
+.Favorite-food-item-item .fas{
     font-size: xx-large;
     margin-bottom: 10px;
     color: #6195ff;
