@@ -38,14 +38,6 @@ a{
 .nav .home{
     position: relative;
 }
-.nav p{
-    position: absolute;
-    background-color: blue;
-    width: 60px;
-    height: 3px;
-    margin-left: 170px;
-    margin-top: -7px;
-}
 .header .container .header-content .nav > li{
     list-style: none;
     display: inline-block;
